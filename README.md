@@ -1,6 +1,6 @@
 # Un snake réalisé avec [P5.js](https://p5js.org/)
 
-Se joue avec **les flèches directionnelles**.
+Se joue avec **les flèches directionnelles**. :arrow_up:
 
 -------
 
