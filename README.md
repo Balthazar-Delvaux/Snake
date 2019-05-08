@@ -14,8 +14,6 @@ Pour y jouer, vous devez utiliser **les flèches directionnelles** :arrow_up: :a
 
 ![snake screenshot](img/snake-screenshot.png)
 
--------
-
 ## [P5.js](https://p5js.org/)
 
 P5.js est une bibliothèque JavaScript très utile dans les créations graphiques et elle est très facile à prendre en main.
