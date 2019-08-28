@@ -20,4 +20,4 @@ P5.js est une bibliothèque JavaScript très utile dans les créations graphique
 
 ----------
 
-Mon premier projet en JavaScript, des améliorations peuvent être faites
+Mon premier projet en JavaScript!
